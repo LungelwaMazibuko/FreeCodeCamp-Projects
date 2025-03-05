@@ -6,7 +6,7 @@
 ## (New) Responsive Web Design Certification
   - [X] Learn HTML by Building a Cat Photo App
   - [X] Learn Basic CSS by Building a Cafe Menu
-  - [ ] Learn CSS Colors by Building a Set of Colored Markers
+  - [X] Learn CSS Colors by Building a Set of Colored Markers
   - [ ] Learn HTML Forms by Building a Registration Form
   - [ ] Survey Form *(Certification Project)*
   - [ ] Learn the CSS Box Model by Building a Rothko Painting
