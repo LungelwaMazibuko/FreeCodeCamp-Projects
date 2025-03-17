@@ -1,4 +1,4 @@
-# freeCodeCamp
+# freeCodeCamp Projects & Certificates
 [freeCodeCamp](https://www.freecodecamp.org/) coursework.
 
 ***
